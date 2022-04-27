@@ -1,0 +1,18 @@
+export const SET_IS_AUTH = 'SET_IS_AUTH'
+export const SET_USER = 'SET_USER'
+export const USER_LOGOUT = 'USER_LOGOUT'
+
+export const SET_BRANDS = 'SET_BRANDS'
+export const SET_ACTIVE_BRAND = 'SET_ACTIVE_BRAND'
+export const CREATE_BRAND = 'CREATE_BRAND'
+
+export const SET_TYPES = 'SET_TYPES'
+export const ACTIVE_TYPE = 'ACTIVE_TYPE'
+export const CREATE_TYPE = 'CREATE_TYPE'
+
+export const SET_DEVICES = 'SET_DEVICES'
+export const DEVICES_LOADING = 'DEVICES_LOADING'
+export const CREATE_DEVICE = 'CREATE_DEVICE'
+
+export const FETCH_DEVICE = 'FETCH_DEVICE'
+export const FETCH_DEVICE_SUCCESS = 'FETCH_DEVICE_SUCCESS'
